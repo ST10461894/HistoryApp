@@ -42,4 +42,7 @@ Kotlin 2024. Why Kotlin. [Online] available at: Kotlin Programming Language (kot
 Lutkevich. B. 2024. What is Kotlin.[Online] available at: https://www.techtarget.com/whatis/definition/Kotlin [Accessed April 2024]  
 The IIE 2024 Introduction to Mobile Application Development [IMAD5112 ASSIGNMENT BRIEF]. Unpublished.
 
+Application Video Walkthrough:
+https://youtu.be/aAGIHXR12DI?si=zd-Ph5E64zUOhTZ_
+
 
